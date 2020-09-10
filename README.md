@@ -1,5 +1,5 @@
-# Python_Projects
+# Leap Year Calendar
 
-Some python stuff I do in my free time
+A simple python program with a GUI to allow you to calculate if any given year is a leap year.
 
-Updated as I go, just enjoying learning to code!
+You can also check the current year (based on your system clock), or generate a random year to check
