@@ -1,4 +1,4 @@
-# Leap Year Calendar
+# LeapYearCalc
 
 A simple python program with a GUI to allow you to calculate if any given year is a leap year.
 
